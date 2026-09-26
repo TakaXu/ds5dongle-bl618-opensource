@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "bouffalo_sdk_ds5/bsp/board/bl616dk/config/boot2_bl616_isp_release_v8.1.8.bin",
+      "sha256": "92a329c660e23f1b488a21779cebb6d5fe0ae61fd25dc00d3df7e4334192ace6"
+    },
+    {
+      "path": "bouffalo_sdk_ds5/bsp/board/bl616dk/config/partition_cfg_4M.toml",
+      "sha256": "ce052a5fe175ca0faa04342f17f8882da49a1e772ed107406e919697383cd4a4"
+    },
+    {
+      "path": "firmware/lctech616/partition_cfg_4M_nosec.toml",
+      "sha256": "7c5205ad1aca062c2abef83ca520ca0c1dd0c9d12011aadd0854626c9938cbdf"
+    }
+  ],
+  "date": "2026-09-26",
+  "repositories": [
+    {
+      "url": "https://github.com/sqlCRT/bouffalo_sdk.git",
+      "path": "bouffalo_sdk_ds5",
+      "commit": "b3532953322194233f80436701e7fb6bb4ad8275"
+    },
+    {
+      "url": "https://github.com/bouffalolab/toolchain_gcc_t-head_windows.git",
+      "path": ".tools/toolchain_gcc_t-head_windows",
+      "commit": "072fc29d765774d66366c57a4d962e90c366ef1b"
+    }
+  ]
+}

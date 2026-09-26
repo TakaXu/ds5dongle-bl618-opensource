@@ -11,3 +11,7 @@ bouffalo_sdk_ds5/
 *.zip
 .DS_Store
 *.code-workspace
+
+# 本地构建依赖与检查产物
+.tools/
+__pycache__/

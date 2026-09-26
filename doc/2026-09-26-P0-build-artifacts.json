@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-26",
+  "ota_ready": false,
+  "artifacts": [
+    {
+      "path": "firmware/lctech616/ds5dongle-lctech616.bin",
+      "sha256": "f10557807e2325278b365b382511eb1a5b31de851b9bbb94aa3d08c09c2a1724",
+      "bytes": 766496
+    },
+    {
+      "path": "firmware/lctech616/ds5dongle-lctech616-hs.bin",
+      "sha256": "b22cab55eb42a98aefcc8d68137c8256bcf60c7e3fa33e88d7da72d51b4217d6",
+      "bytes": 766496
+    },
+    {
+      "path": "firmware/lctech616/boot2_bl616_isp_release_v8.1.8.bin",
+      "sha256": "92a329c660e23f1b488a21779cebb6d5fe0ae61fd25dc00d3df7e4334192ace6",
+      "bytes": 52576
+    },
+    {
+      "path": "firmware/lctech616/partition.bin",
+      "sha256": "99c055a2a7279c04d989a2a270106d2e2584a2d5773b57e40b3af0d87f623d12",
+      "bytes": 308
+    }
+  ],
+  "hardware_verified": false
+}
